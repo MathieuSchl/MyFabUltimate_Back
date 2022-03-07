@@ -24,4 +24,3 @@ Bonjour ! Vous vous trouvez actuellement sur le respository de MyFab mais côté
  7. Pour importer les tables et les valeurs par défaut exécutez la commande `npm run prepareDb`
  8. Et voilà c'est prêt ! Il vous suffit d'exécuter ensuite `npm run start` pour lancer le back (la documentation sera visible ici => http://localhost:5000/api-docs/).
  
-
