@@ -25,4 +25,3 @@ Bonjour ! Vous vous trouvez actuellement sur le respository de MyFab mais côté
  8. Et voilà c'est prêt ! Il vous suffit d'exécuter ensuite `npm run start` pour lancer le back (la documentation sera visible ici => http://localhost:5000/api-docs/).
  
 
-
